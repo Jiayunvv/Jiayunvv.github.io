@@ -11,7 +11,7 @@ redirect_from:
 ***Hello, and welcome to my academic page!***
 
 
-I'm currently a 1st-year Ph.D. student from the University of Twente. 
+I'm currently a 1st-year Ph.D. student at the University of Twente. 
 
 In my spare time, I'm an avid reader and a passionate traveler. My favorite book is "Gone with the Wind" because I admire Scarlett's energy and her unyielding spirit. 
 
