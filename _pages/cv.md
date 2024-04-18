@@ -10,14 +10,15 @@ redirect_from:
 {% include base_path %}
 
 # **Objective**
-Highly motivated and research-oriented individual seeking admission to a Ph.D. program in Transportation Engineering. Passionate about solving complex problems in the field and contributing to cutting-edge research.
+
+Successfully graduate in April 2028.
 
 ---
 
 # **Education**
-
+* Ph.D. in Industrial Engineering, University of Twente, 2024–present
 * B.S. in Transportation Engineering, Shanghai Jiao Tong University, 2021
-* M.S. in Management Science and Engineering, Zhejiang University, 2024 (expected)
+* M.S. in Management Science and Engineering, Zhejiang University, 2024
 
 ---
 
