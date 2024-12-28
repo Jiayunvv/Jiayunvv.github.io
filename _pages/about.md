@@ -15,6 +15,8 @@ I'm currently a first-year Ph.D. student at the Industrial Engineering and Busin
 
 In my spare time, I'm an avid reader and a passionate traveler. My favorite book is "Gone with the Wind" because I admire Scarlett's energy and her unyielding spirit. 
 
+### About Experiencing The World
+
 [Wrote in 2024.12: ] I realized a part of my dream this year! In 2024, I moved to the Netherlands, marking my first time living in a foreign country. I explored seven countries, including Netherlands, Germany, Greece, Austria, the Czech Republic, Hungary, and Norway. The world is vast, and I’m eager to see and experience even more!
 
 [Wrote in 2023.11: ]
