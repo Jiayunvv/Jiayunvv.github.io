@@ -36,8 +36,6 @@ To successfully graduate in April 2028.
 **Institution:** Zhejiang University (May 2022 – March 2023)  
 **Supervisor:** Professor Qingwei Jin  
 
-![](/_images/process_final.png)
-
 - Proposed a new indicator, AW Sales (Average Weekly Sales in Main Sales Period), to measure product popularity, unaffected by differences in store traffic, number of stores with initial stock, discounts, and product launch duration.  
 - Developed novel features from weekly adjusted sales volume sequences.  
 - Built a product popularity classification model using ranking algorithms, pioneering their application in sales prediction.  
@@ -48,13 +46,9 @@ To successfully graduate in April 2028.
 **Institution:** Shanghai Jiao Tong University (February 2021 – June 2021)  
 **Supervisor:** Professor Jiangang Jin 
 
-<embed src="/_images/heuristic_algorithm.png" type="application/pdf" width="100%" height="600px" />
-
-
 - Constructed an Integer Linear Programming (ILP) model for flexible bus scheduling to support efficient passenger transportation during rail disruptions.  
 - Developed a solution program using CPLEX to achieve optimal results.  
 - Designed and implemented a heuristic algorithm in Python to accelerate solutions while maintaining a deviation of only **2.2% from the exact solution**.  
-
 
 ---
 
