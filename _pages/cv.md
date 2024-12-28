@@ -48,7 +48,7 @@ To successfully graduate in April 2028.
 **Institution:** Shanghai Jiao Tong University (February 2021 – June 2021)  
 **Supervisor:** Professor Jiangang Jin 
 
-![](/_images/huristic_algorithm.png)
+<embed src="/_images/heuristic_algorithm.png" type="application/pdf" width="100%" height="600px" />
 
 
 - Constructed an Integer Linear Programming (ILP) model for flexible bus scheduling to support efficient passenger transportation during rail disruptions.  
