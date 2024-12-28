@@ -9,56 +9,51 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+# **Objective**
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+Successfully graduate in April 2028.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+---
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+# **Education**
+* Ph.D. in Industrial Engineering, University of Twente, 2024–present
+* B.S. in Transportation Engineering, Shanghai Jiao Tong University, 2021
+* M.S. in Management Science and Engineering, Zhejiang University, 2024
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+---
+
+# **Research Experience**
+* **Algorithm Engineer Intern**
+  * *Hangzhou Linezone Data*
+  * May 2022 - Mar 2023
+  * *Supervisor: Professor Jin Qingwei*
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+  - Conducted **data cleaning and analysis** using Python's pandas library to explore distribution characteristics of apparel sales data, including apparel product life cycle, price band distribution, and the relationship between discounts and sales.
+
+  - Innovatively constructed **predictive models** based on longest increasing subsequences, achieving a prediction accuracy of **78.9%** and identifying fast-selling products **17 days earlier** than traditional methods.
+
+  - Co-authored a research paper titled *"Identifying Popular Products at An Early Stage of Sales Season for the Apparel Industry."*
+
+* **Undergraduate Thesis**
+  * *Shanghai Jiao Tong University*
+  * Feb 2021 - Jun 2021
+  * *Supervisor: Professor Jin Jiangang*
+
+  - Developed an **Integer Linear Programming (ILP) model** for "flexible scheduling" of emergency buses, implementing the model using **CPLEX** to find exact solutions.
+
+  - Designed and implemented a **heuristic algorithm** based on averaging concepts and local search techniques, achieving results within **2.2%** of the exact solution.
+
+---
+
+# **Skills**
+* **Programming:** Proficient in **Python**, with experience in data analysis, machine learning, and algorithm development.
+* **Machine Learning:** Familiar with using machine learning frameworks, including **scikit-learn**.
+* **Mathematical Modeling:** Strong background in mathematical modeling, particularly in transportation and optimization.
+
+---
+
+# **Publications**
+* *"Identifying Popular Products at An Early Stage of Sales Season for the Apparel Industry."* (Minor Revision)
+  - *Co-author: Jiayun Wang*
+  - Presented at *Informs Journal on Applied Analytics* (if applicable)
+
