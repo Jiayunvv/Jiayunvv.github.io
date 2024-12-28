@@ -11,49 +11,75 @@ redirect_from:
 
 # **Objective**
 
-Successfully graduate in April 2028.
+To successfully graduate in April 2028.
 
 ---
 
 # **Education**
-* Ph.D. in Industrial Engineering, University of Twente, 2024–present
-* B.S. in Transportation Engineering, Shanghai Jiao Tong University, 2021
-* M.S. in Management Science and Engineering, Zhejiang University, 2024
+
+- **Ph.D. in Industrial Engineering**  
+  University of Twente, 2024–present  
+
+- **M.S. in Management Science and Engineering**  
+  Zhejiang University, 2021–2024  
+
+- **B.S. in Transportation Engineering**  
+  Shanghai Jiao Tong University, 2017–2021  
 
 ---
 
 # **Research Experience**
-* **Algorithm Engineer Intern**
-  * *Hangzhou Linezone Data*
-  * May 2022 - Mar 2023
-  * *Supervisor: Professor Jin Qingwei*
-  
-  - Conducted **data cleaning and analysis** using Python's pandas library to explore distribution characteristics of apparel sales data, including apparel product life cycle, price band distribution, and the relationship between discounts and sales.
 
-  - Innovatively constructed **predictive models** based on longest increasing subsequences, achieving a prediction accuracy of **78.9%** and identifying fast-selling products **17 days earlier** than traditional methods.
+### **Master’s Thesis** [pdf](/files/expansion.pdf)  
+**Title:** Identifying Popular Products at An Early Stage for Apparel Industry 
+**Cooperating Company:** Hangzhou Linezone Data  
+**Institution:** Zhejiang University (May 2022 – March 2023)  
+**Supervisor:** Professor Qingwei Jin  
 
-  - Co-authored a research paper titled *"Identifying Popular Products at An Early Stage of Sales Season for the Apparel Industry."*
+![](/_images/process_final.png)
 
-* **Undergraduate Thesis**
-  * *Shanghai Jiao Tong University*
-  * Feb 2021 - Jun 2021
-  * *Supervisor: Professor Jin Jiangang*
+- Proposed a new indicator, AW Sales (Average Weekly Sales in Main Sales Period), to measure product popularity, unaffected by differences in store traffic, number of stores with initial stock, discounts, and product launch duration.  
+- Developed novel features from weekly adjusted sales volume sequences.  
+- Built a product popularity classification model using ranking algorithms, pioneering their application in sales prediction.  
+- Achieved **78.9% prediction accuracy**, identifying fast-selling products **17 days earlier** than traditional methods.  
 
-  - Developed an **Integer Linear Programming (ILP) model** for "flexible scheduling" of emergency buses, implementing the model using **CPLEX** to find exact solutions.
+### **Undergraduate Thesis** [pdf](/files/flexibleBus.pdf) 
+**Title:** Plan-Based Bus Bridging Strategy During Disruptions of Urban Rail Networks
+**Institution:** Shanghai Jiao Tong University (February 2021 – June 2021)  
+**Supervisor:** Professor Jiangang Jin 
 
-  - Designed and implemented a **heuristic algorithm** based on averaging concepts and local search techniques, achieving results within **2.2%** of the exact solution.
+![](/_images/huristic_algorithm.png)
+
+
+- Constructed an Integer Linear Programming (ILP) model for flexible bus scheduling to support efficient passenger transportation during rail disruptions.  
+- Developed a solution program using CPLEX to achieve optimal results.  
+- Designed and implemented a heuristic algorithm in Python to accelerate solutions while maintaining a deviation of only **2.2% from the exact solution**.  
+
+
+---
+
+# **Projects**
+
+### **Text Mining and Classifications in Yunduoduo** [pdf](/files/bert_yunduoduo.pdf) 
+- Collected data from “Yunduoduo”, a social platform for college students and fine-tuned the BERT model to predict post sentiment.  
+- Compared various machine learning algorithms (Random Forest, Logistic Regression, and Linear SVM) for accuracy and efficiency.  
+- Proposed an automatic classification application prototype.  
+
+### **Time Series Analysis of AQI in Delhi (2015–2020)** [pdf](/files/time_series.pdf) 
+- Modeled and predicted Air Quality Index (AQI) for August 2019 to August 2020 using historical data from Delhi, India.  
+- Utilized R for statistical modeling and forecasting.  
 
 ---
 
 # **Skills**
-* **Programming:** Proficient in **Python**, with experience in data analysis, machine learning, and algorithm development.
-* **Machine Learning:** Familiar with using machine learning frameworks, including **scikit-learn**.
-* **Mathematical Modeling:** Strong background in mathematical modeling, particularly in transportation and optimization.
+
+- **Programming:** Proficient in **Python**, with expertise in data analysis, machine learning, and algorithm development.  
+- **Machine Learning:** Familiar with frameworks for building and deploying machine learning models.  
+- **Mathematical Modeling:** Strong background in transportation and optimization modeling.  
 
 ---
 
 # **Publications**
-* *"Identifying Popular Products at An Early Stage of Sales Season for the Apparel Industry."* (Minor Revision)
-  - *Co-author: Jiayun Wang*
-  - Presented at *Informs Journal on Applied Analytics* (if applicable)
 
+- Wang, J., Wu, S., Jin, Q., Wang, Y., & Chen, C. (2024). *Identifying Popular Products at an Early Stage of Sales Season for the Apparel Industry*. **INFORMS Journal on Applied Analytics**, 54(3), 282–296.  
+  [Download PDF](/files/wang-et-al-2023-identifying-popular-products-at-an-early-stage-of-sales-season-for-apparel-industry.pdf)  

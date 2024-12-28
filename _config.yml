@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Jiayun Wang"
   avatar           : "profile.png"
-  bio              : "Ph.D. Student at Univeristy of Twente, Industrial Engineering and Business Information Systems"
+  bio              : "Ph.D. Student at Univeristy of Twente, Operation Research."
   location         : "Enschede, Netherlands"
   employer         :
   pubmed           : 
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "https://www.linkedin.com/in/jiayun-wang-a468a7276/"
-  orcid            : "https://orcid.org/0009-0000-0400-0735"
+  # orcid            : "https://orcid.org/0009-0000-0400-0735"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
