@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Jiayun Wang"
 title_separator          : "-"
 name                     : &name "Your Name"
-description              : &description "personal description"
+description              : &description "Personal description"
 url                      : https://jiayunvv.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Jiayunvv.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Jiayun Wang"
   avatar           : "profile.png"
-  bio              : "Ph.D. Student at Univeristy of Twente, curious in optimization"
+  bio              : "Ph.D. Student at Univeristy of Twente, Industrial Engineering and Business Information Systems"
   location         : "Enschede, Netherlands"
   employer         :
   pubmed           : 
-  googlescholar    : 
-  email            : jiayun.vv@gmail.com
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=Gh1-y3cAAAAJ"
+  email            : "jiayun.vv@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -99,10 +99,10 @@ author:
   github           : 
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "https://www.instagram.com/jiayunn_wang/"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/jiayun-wang-a468a7276/"
   orcid            : "https://orcid.org/0009-0000-0400-0735"
   pinterest        :
   soundcloud       :
