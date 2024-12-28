@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -26,21 +26,21 @@ redirect_from:
 - **B.S. in Transportation Engineering**  
   Shanghai Jiao Tong University, 2017–2021  
 
+---
 
 # **Research Experience**
-### **Master’s Thesis** [pdf](/files/expansion.pdf)  
-**Title:** Identifying Popular Products at An Early Stage for Apparel Industry  
+## **Master’s Thesis**   
+**Title:** Identifying Popular Products at An Early Stage for Apparel Industry  [[Slides]](/files/expansion.pdf)  
 **Cooperating Company:** Hangzhou Linezone Data  
 **Institution:** Zhejiang University (May 2022 – March 2023)  
 **Supervisor:** Professor Qingwei Jin  
-
 - Proposed a new indicator, AW Sales (Average Weekly Sales in Main Sales Period), to measure product popularity, unaffected by differences in store traffic, number of stores with initial stock, discounts, and product launch duration.  
-- Developed novel features from weekly adjusted sales volume sequences.  
+- Developed novel features from weekly sales volume sequences.  
 - Built a product popularity classification model using ranking algorithms, pioneering their application in sales prediction.  
 - Achieved **78.9% prediction accuracy**, identifying fast-selling products **17 days earlier** than traditional methods.  
 
-### **Undergraduate Thesis** [pdf](/files/flexibleBus.pdf) 
-**Title:** Plan-Based Bus Bridging Strategy During Disruptions of Urban Rail Networks\\
+## **Bechelor's Thesis** 
+**Title:** Plan-Based Bus Bridging Strategy During Disruptions of Urban Rail Networks  [[Slides]](/files/flexibleBus.pdf) \\
 **Institution:** Shanghai Jiao Tong University (February 2021 – June 2021)  
 **Supervisor:** Professor Jiangang Jin 
 
@@ -66,14 +66,15 @@ redirect_from:
 # **Skills**
 
 - **Programming:** Proficient in **Python**, with expertise in data analysis, machine learning, and algorithm development.  
-- **Machine Learning:** Familiar with frameworks for building and deploying machine learning models.  
 - **Mathematical Modeling:** Strong background in transportation and optimization modeling.  
+- **Language**: English (C1), Chinese (Native).
 
 ---
 
 # **Publications**
+- Wang, Jiayun, Trivella, Alessio, Guericke, Daniela, and Yazan, Devrim Murat. An Optimization Framework for Managing Resource Flows in Hubs for Circularity (December 2, 2024). Available at [SSRN](https://ssrn.com/abstract=5041299).
 
 - Wang, J., Wu, S., Jin, Q., Wang, Y., & Chen, C. (2024). *Identifying Popular Products at an Early Stage of Sales Season for the Apparel Industry*. **INFORMS Journal on Applied Analytics**, 54(3), 282–296.  
   [Download PDF](/files/wang-et-al-2023-identifying-popular-products-at-an-early-stage-of-sales-season-for-apparel-industry.pdf)  
 
-- Wang, Jiayun, Trivella, Alessio, Guericke, Daniela, and Yazan, Devrim Murat. "An Optimization Framework for Managing Resource Flows in Hubs for Circularity" (December 2, 2024). Available at SSRN: \href{https://ssrn.com/abstract=5041299}{https://ssrn.com/abstract=5041299}.-
+
