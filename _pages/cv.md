@@ -78,3 +78,9 @@ redirect_from:
   [Download PDF](/files/wang-et-al-2023-identifying-popular-products-at-an-early-stage-of-sales-season-for-apparel-industry.pdf)  
 
 
+
+# **Honors and Awards**
+- Outstanding Graduate Award, Zhejiang University, 2024
+- Outstanding Graduate Award, Shanghai Jiaotong University, 2021
+- National Scholarship of China (top 1%), 2020
+
