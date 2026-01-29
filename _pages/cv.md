@@ -39,7 +39,7 @@ redirect_from:
 - Built a product popularity classification model using ranking algorithms, pioneering their application in sales prediction.  
 - Achieved **78.9% prediction accuracy**, identifying fast-selling products **17 days earlier** than traditional methods.  
 
-## **Bechelor's Thesis** 
+## **Bachelor's Thesis** 
 **Title:** Plan-Based Bus Bridging Strategy During Disruptions of Urban Rail Networks  [[Slides]](/files/flexibleBus.pdf) \\
 **Institution:** Shanghai Jiao Tong University (February 2021 – June 2021)  
 **Supervisor:** Professor Jiangang Jin 

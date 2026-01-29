@@ -9,8 +9,8 @@
 locale                   : "en-US"
 title                    : "Jiayun Wang"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "Personal description"
+name                     : &name "Jiayun Wang"
+description              : &description "PhD student at University of Twente researching optimization and stochastic dynamic programming"
 url                      : https://jiayunvv.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Jiayunvv.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Jiayun Wang"
   avatar           : "profile.png"
-  bio              : "Ph.D. Student at Univeristy of Twente, Operation Research."
+  bio              : "Ph.D. Student at University of Twente, Operations Research."
   location         : "Enschede, Netherlands"
   employer         :
   pubmed           : 
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "https://www.linkedin.com/in/jiayun-wang-a468a7276/"
-  # orcid            : "https://orcid.org/0009-0000-0400-0735"
+  orcid            : "https://orcid.org/0009-0000-0400-0735"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
@@ -255,7 +255,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Europe/Amsterdam # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
