@@ -14,10 +14,24 @@ redirect_from:
 💪💪💪 Successfully graduate in April 2028.
 
 ---
+# **Publications**
+- Wang, J., Trivella, A., Guericke, D., & Yazan, D. M. (2025). *An optimization framework for managing resource flows in hubs for circularity*. **Circular Economy and Sustainability**, 1-30.
+ [Link](https://link.springer.com/article/10.1007/s43615-025-00592-6)  
+
+- Wang, J., Wu, S., Jin, Q., Wang, Y., & Chen, C. (2024). *Identifying Popular Products at an Early Stage of Sales Season for the Apparel Industry*. **INFORMS Journal on Applied Analytics**, 54(3), 282–296.  
+  [Download PDF](/files/wang-et-al-2023-identifying-popular-products-at-an-early-stage-of-sales-season-for-apparel-industry.pdf)  
+
+---
+# **Conferences**
+- 5th Symposium on Circular Economy and Sustainability (June 2024, Chania, Greece)
+- 34th European Conference on Operational Research (June 2025, Leeds, UK)
+- BMS Research conference(November 2025, Enschede, Netherlands)
+- 51st LNMB Conference on the Mathematics of Operations Research (January 2026, Soesterberg, Netherlands)
+---
 
 # **Education**
 
-- **Ph.D. in Industrial Engineering**  
+- **Ph.D. in Industrial Engineering and Management Science**  
   University of Twente, 2024–present  
 
 - **M.S. in Management Science and Engineering**  
@@ -29,6 +43,12 @@ redirect_from:
 ---
 
 # **Research Experience**
+## **PhD Project**
+**Title:** Resource flow optimization and logistics in Hubs for circularity [Project](https://is2h4c-project.eu/)
+**Institution:** University of Twente
+- Develop a daily operational model for a generic hub for circularity, managed in a centralized manner, which provides optimal decisions on production scheduling, transportation, and inventory management.
+- Conduct a comprehensive literature review on resource flow management within concepts related with hubs for circularity, such as industrial symbiosis networks, and propose a two-phase optimization framework for managing flows of resources in space and time.
+
 ## **Master’s Thesis**   
 **Title:** Identifying Popular Products at An Early Stage for Apparel Industry  [[Slides]](/files/expansion.pdf)  
 **Cooperating Company:** Hangzhou Linezone Data  
@@ -47,7 +67,6 @@ redirect_from:
 - Constructed an Integer Linear Programming (ILP) model for flexible bus scheduling to support efficient passenger transportation during rail disruptions.  
 - Developed a solution program using CPLEX to achieve optimal results.  
 - Designed and implemented a heuristic algorithm in Python to accelerate solutions while maintaining a deviation of only **2.2% from the exact solution**.  
-
 ---
 
 # **Projects**
@@ -60,7 +79,6 @@ redirect_from:
 ### **Time Series Analysis of AQI in Delhi (2015–2020)** [pdf](/files/time_series.pdf) 
 - Modeled and predicted Air Quality Index (AQI) for August 2019 to August 2020 using historical data from Delhi, India.  
 - Utilized R for statistical modeling and forecasting.  
-
 ---
 
 # **Skills**
@@ -70,13 +88,6 @@ redirect_from:
 - **Language**: English (C1), Chinese (Native).
 
 ---
-
-# **Publications**
-- Wang, Jiayun, Trivella, Alessio, Guericke, Daniela, and Yazan, Devrim Murat. An Optimization Framework for Managing Resource Flows in Hubs for Circularity (December 2, 2024). Available at [SSRN](https://ssrn.com/abstract=5041299).
-
-- Wang, J., Wu, S., Jin, Q., Wang, Y., & Chen, C. (2024). *Identifying Popular Products at an Early Stage of Sales Season for the Apparel Industry*. **INFORMS Journal on Applied Analytics**, 54(3), 282–296.  
-  [Download PDF](/files/wang-et-al-2023-identifying-popular-products-at-an-early-stage-of-sales-season-for-apparel-industry.pdf)  
-
 
 
 # **Honors and Awards**
