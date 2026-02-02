@@ -27,6 +27,7 @@ redirect_from:
 - 34th European Conference on Operational Research (June 2025, Leeds, UK)
 - BMS Research conference(November 2025, Enschede, Netherlands)
 - 51st LNMB Conference on the Mathematics of Operations Research (January 2026, Soesterberg, Netherlands)
+
 ---
 
 # **Education**
@@ -44,7 +45,7 @@ redirect_from:
 
 # **Research Experience**
 ## **PhD Project**
-**Title:** Resource flow optimization and logistics in Hubs for circularity [Project](https://is2h4c-project.eu/)
+**Title:** Resource flow optimization and logistics in Hubs for circularity [Project](https://is2h4c-project.eu/)\\
 **Institution:** University of Twente
 - Develop a daily operational model for a generic hub for circularity, managed in a centralized manner, which provides optimal decisions on production scheduling, transportation, and inventory management.
 - Conduct a comprehensive literature review on resource flow management within concepts related with hubs for circularity, such as industrial symbiosis networks, and propose a two-phase optimization framework for managing flows of resources in space and time.
@@ -66,7 +67,8 @@ redirect_from:
 
 - Constructed an Integer Linear Programming (ILP) model for flexible bus scheduling to support efficient passenger transportation during rail disruptions.  
 - Developed a solution program using CPLEX to achieve optimal results.  
-- Designed and implemented a heuristic algorithm in Python to accelerate solutions while maintaining a deviation of only **2.2% from the exact solution**.  
+- Designed and implemented a heuristic algorithm in Python to accelerate solutions while maintaining a deviation of only **2.2% from the exact solution**.
+  
 ---
 
 # **Projects**
